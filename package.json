@@ -44,7 +44,7 @@
     "jquery-ui": "^1.12.1",
     "jsdom": "^15.1.1",
     "konva": "^4.0.9",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.26",
     "nuxt": "^2.9.2",
     "nuxt-validate": "^1.0.1",
