@@ -42,7 +42,7 @@
     "eslint-plugin-vue": "^5.2.3",
     "jquery": "^3.4.1",
     "jquery-ui": "^1.12.1",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "konva": "^4.0.9",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
