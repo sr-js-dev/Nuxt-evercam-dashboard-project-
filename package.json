@@ -50,7 +50,7 @@
     "nuxt-validate": "^1.0.1",
     "phoenix-socket": "^1.2.3",
     "prettier": "^1.18.2",
-    "qs": "^6.8.0",
+    "qs": "^6.8.3",
     "tus-js-client": "^1.8.0-2",
     "vee-validate": "^3.0.5",
     "vue-awesome-swiper": "^3.1.3",
